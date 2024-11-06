@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 if(process.env.GITHUB_AUTH_TOKEN){
 GITHUB_AUTH_TOKEN = process.env.GITHUB_AUTH_TOKEN
 } else {
-GITHUB_AUTH_TOKEN = envv2.GITHUB_AUTH_TOKEN
+GITHUB_AUTH_TOKEN = "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" //envv2.GITHUB_AUTH_TOKEN
 }
 
 if(process.env.GITHUB_USERNAME){
