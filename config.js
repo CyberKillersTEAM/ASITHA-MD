@@ -14,13 +14,13 @@ function convertToBool(text, fault = 'true') {
 if(process.env.GITHUB_AUTH_TOKEN){
 GITHUB_AUTH_TOKEN = process.env.GITHUB_AUTH_TOKEN
 } else {
-GITHUB_AUTH_TOKEN = "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" //envv2.GITHUB_AUTH_TOKEN
+GITHUB_AUTH_TOKEN = "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" //envv2.GITHUB_AUTH_TOKEN
 }
 
 if(process.env.GITHUB_USERNAME){
 GITHUB_USERNAME = process.env.GITHUB_USERNAME
 } else {
-GITHUB_USERNAME = "VAJIRA-GON-PAKAYA" //envv2.GITHUB_USERNAME
+GITHUB_USERNAME = "CyberKillersTEAM" //envv2.GITHUB_USERNAME
 }
 
 
