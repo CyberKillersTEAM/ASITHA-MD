@@ -1,5 +1,5 @@
 
-const env2 = require('./config-db')
+const envv2 = require('./config-db')
 var GITHUB_AUTH_TOKEN;
 var GITHUB_USERNAME;
 var SESSION_ID;
