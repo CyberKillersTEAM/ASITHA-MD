@@ -1,4 +1,8 @@
-const { cmd } = require('../command')
+const { cmd } = require("../command");
+const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, Func, fetchJson } = require("../lib/functions");
+const axios = require("axios");
+
+
 
 const _0x52090d = {
   pattern: "forward",
