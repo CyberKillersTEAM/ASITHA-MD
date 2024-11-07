@@ -1,3 +1,5 @@
+const { cmd } = require('../command')
+
 const _0x52090d = {
   pattern: "forward",
   desc: "forward msgs",
